@@ -8,7 +8,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <>
+    <main>
       <h1>React App</h1>
       <Navbar />
       <About />
@@ -16,7 +16,7 @@ function App() {
       <Skills />
       <Testimonials />
       <Contact />
-    </>
+    </main>
   );
 }
 
