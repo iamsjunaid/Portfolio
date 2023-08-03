@@ -26,7 +26,6 @@ function Contact() {
   return (
     <section id="contact" className="relative">
       <form
-        netlify
         name="contact"
         onSubmit={handleSubmit}
         className="md:w-1/2 flex flex-col md:m-auto w-full md:py-8 mt-8 md:mt-0"
