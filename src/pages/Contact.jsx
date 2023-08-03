@@ -47,7 +47,7 @@ function Contact() {
         </div>
         <button
           type="submit"
-          className="text-white bg-indigo-500 border-0 py-1 px-4 focus:outline-none hover:bg-indigo-600 rounded text-base"
+          className="text-white bg-indigo-500 border-0 py-2 px-4 focus:outline-none hover:bg-indigo-600 rounded text-base m-auto w-1/2"
         >
           Submit
         </button>
