@@ -10,7 +10,6 @@ import Footer from "./pages/Footer";
 function App() {
   return (
     <main>
-      <h1>React App</h1>
       <Navbar />
       <About />
       <Projects />
